@@ -1,2 +1,3 @@
 # IAN504_PREDICTIVE_ANALYTICS
-knwf dosyası bilgisayarda Knime'da import edildikten sonra workflow'da USA_Housing2.csv dosyası File Reader node'unun konfigurasyonunda veri olarak kullanılacak şekilde ayarlanmalıdır.
+
+After the knwf file is imported in Knime on the computer, the USA_Housing2.csv file in workflow should be set to be used as data in the configuration of the File Reader node.
